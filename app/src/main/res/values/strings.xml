@@ -1,0 +1,40 @@
+<resources>
+
+    <string name="app_name">Login</string>
+    <!--   activity catalog page-->
+
+    <string name="pop_prop">Popular Property</string>
+    <string name="caltlog_viewmore">View more</string>
+    <string name="catlog_rs1000"> RS-1000</string>
+    <string name="catlog_Milaniumhouse">millenniumHouse</string>
+    <string name="catlog_Address">Horten place</string>
+    <string name="catlog_populerproperty">Popular Property</string>
+    <string name="catlog_MillenniumHouse">Millennium House</string>
+<!--    activity main1 welcom page-->
+    <string name="main1_Welcome">Welcome</string>
+    <string name="main1_login">Login</string>
+<!--    activity main2 signUp page-->
+    <string name="main2_SignUp">SignUp</string>
+    <string name="main2_Username"> Username</string>
+    <string name="main2_Email"> Email</string>
+    <string name="main2_Password">  Password</string>
+    <string name="main2_RePassword">  RePassword</string>
+    <string name="main2_text">SignUp</string>
+<!--    activity main3 login page-->
+    <string name="main3_text">Login</string>
+    <string name="main3_hint"> Username</string>
+    <string name="main3hint"> Password</string>
+    <string name="main3_btn">Login</string>
+<!--    activity home page-->
+    <string name="home_Name">Hommie</string>
+
+<!--    activity moredetails page-->
+    <string name="mored_topic_ext">Property Details</string>
+    <string name="mored_price">Rs-10000</string>
+    <string name="mored_rentbtn">Rent Now</string>
+    <string name="mored_description">Description</string>
+    <string name="mored_content">This house features 4 bedrooms, 3 bathrooms, a kitchen, and security measures for added safety.</string>
+    <string name="mored_location">📍 Horten place</string>
+<!--   activity map page -->
+    <string name="map_location">Colombo 7 Horten Place</string>
+</resources>

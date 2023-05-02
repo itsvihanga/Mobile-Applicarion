@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    product_catlog-->
+    <dimen name="Prp_catloglayout_width">324dp</dimen>
+    <dimen name="catlog_layoutwidth">33dp</dimen>
+
+<!--    activity main Welocme page-->
+    <dimen name="main1_layout_width">match_parent</dimen>
+    <dimen name="main1layout_width">match_parent</dimen>
+    <dimen name="main1_layoutheight">wrap_content</dimen>
+    <dimen name="main1_layoutwidth">match_parent</dimen>
+    <dimen name="main1_layout_height">wrap_content</dimen>
+
+<!--    activity main2 signup page-->
+    <dimen name="main2_layout_width">380dp</dimen>
+    <dimen name="main2_layout_height">50dp</dimen>
+    <dimen name="main2layout_height">50dp</dimen>
+
+<!--    activity main3 login page-->
+    <dimen name="main3_layout_width">warp_content</dimen>
+    <dimen name="mai3_layout_width">wrap_content</dimen>
+    <dimen name="main3layout_width">380dp</dimen>
+    <dimen name="main3layout_height">280dp</dimen>
+
+<!--    activity homepage -->
+    <dimen name="home_layout_width">380dp</dimen>
+    <dimen name="homr_layout_height">115dp</dimen>
+
+<!--    activity Moredetails page -->
+
+    <dimen name="mored_layout_width">32dp</dimen>
+    <dimen name="moredlayout_width">wrap_content</dimen>
+    <dimen name="moredlayoutwidth">105dp</dimen>
+    <dimen name="mored_layout_height">28dp</dimen>
+    <dimen name="moredlayout_height">262dp</dimen>
+    <dimen name="moredlyoutwidth">90dp</dimen>
+    <dimen name="moredayout_height">90dp</dimen>
+    <dimen name="moredayout_width">90dp</dimen>
+    <dimen name="mored_height">90dp</dimen>
+    <dimen name="more_smpic_width">90dp</dimen>
+    <dimen name="mored_smpic_height">90dp</dimen>
+    <dimen name="mored_layoutwid">43dp</dimen>
+    <dimen name="mored_layoutwidth">43dp</dimen>
+    <dimen name="mored_ayoutwid">43dp</dimen>
+    <dimen name="moredlayoutwid">43dp</dimen>
+<!--    activity map -->
+    <dimen name="map_wid">wrap_content</dimen>
+</resources>
